@@ -1,0 +1,5 @@
+var is function scoped en let is block scoped.
+Een block is alles binnen krulhaakjes {}
+
+Een methode is een keyword met haakjes
+Een eigenschap is een keyword zonder haakjes
