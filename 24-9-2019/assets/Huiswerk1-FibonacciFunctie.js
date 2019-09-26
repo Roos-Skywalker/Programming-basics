@@ -10,4 +10,6 @@ function ikHaatWiskunde(Fibonacci){
     }
     return antwoord;
 }
-console.log(ikHaatWiskunde(2))
+(ikHaatWiskunde(2))
+
+//But I like programming
