@@ -8,6 +8,8 @@ while (antwoord <= 100) {
   console.log(antwoord + '')
 }
 
+// Voorbeeld code
+
 // var firstNum = 1;
 // var secondNum = 0;
 // var answer = firstNum + secondNum;

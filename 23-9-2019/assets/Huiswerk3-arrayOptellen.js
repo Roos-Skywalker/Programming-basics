@@ -7,3 +7,5 @@ function arrayOptellen(stupidArray){
   return arrayResult;
 }
 console.log(arrayOptellen(stupidArray))
+
+// The array isn't really stupid, I was just having some fun.
